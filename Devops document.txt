@@ -1,0 +1,39 @@
+git clone project url
+
+git status
+ 
+git init
+
+git status
+
+git add . -staging
+
+git config --global user.email "santhan2512@gmail.com"
+
+git config --global user.user "santhan"
+
+git commit -m " First project changes"
+
+git remote add origin project url
+
+git push -u orgin --all
+
+https://santhan2512@dev.azure.com/santhan2512/First%20Training%20project/_git/Practicerepo
+
+https://challa3162@dev.azure.com/challa3162/TerraformTest/_git/NewBatch1
+
+create brach
+------------------
+git branch feture/login
+
+git brach --all - check the branches list
+
+git status
+
+git checkout feature/login --it switch master/main to feature branch
+
+git push --all -add changes to remote
+
+git checkout main ---go to main branch
+
+git pull origin main --take latest code from remote repo to local
